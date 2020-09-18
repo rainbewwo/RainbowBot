@@ -1,0 +1,2 @@
+# RainbowBot
+All about RainbowBot
