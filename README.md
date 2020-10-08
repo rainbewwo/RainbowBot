@@ -1,7 +1,7 @@
 # rainbowBot
 rainbowBot is created by owner supercolorful (superwatery), which has the following features:
 
-- Posting memes
+- post memes
 - creating a ticket
 - roll a die
 - kick member
