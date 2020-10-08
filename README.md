@@ -19,3 +19,5 @@ rainbowBot is created by owner supercolorful (superwatery), and is written in Ja
 My prefix is !
 
 My invite link is https://discord.com/oauth2/authorize?client_id=752610171863302206&scope=bot&permissions=2146958847 
+
+I currently do not have a help server, but one might be created soon! 
