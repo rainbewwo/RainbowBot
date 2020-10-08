@@ -12,4 +12,4 @@ rainbowBot is created by owner supercolorful (superwatery), which has the follow
 - nuke messages 
 - userinfo
 - serverinfo
-- the say command!
+- the say command! 
