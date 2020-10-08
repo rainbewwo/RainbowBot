@@ -13,3 +13,6 @@ rainbowBot is created by owner supercolorful (superwatery), which has the follow
 - userinfo
 - serverinfo
 - the say command! 
+- invite link
+
+My prefix is !
