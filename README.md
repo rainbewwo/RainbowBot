@@ -1,5 +1,5 @@
 # rainbowBot
-rainbowBot is created by owner supercolorful (superwatery), which has the following features:
+rainbowBot is created by owner supercolorful (superwatery), and is written in JavaScript. The bot has the following features such as:
 
 - post memes
 - ping! pong?
@@ -17,3 +17,5 @@ rainbowBot is created by owner supercolorful (superwatery), which has the follow
 - invite link
 
 My prefix is !
+
+My invite link is https://discord.com/oauth2/authorize?client_id=752610171863302206&scope=bot&permissions=2146958847 
