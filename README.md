@@ -23,4 +23,4 @@ My invite link is https://discord.com/oauth2/authorize?client_id=752610171863302
 
 I currently do not have a help server, but one might be created soon! 
 
-This is one of the unique bot, because it have a mobile online status, plus a playing status that changes itself over time.
+
