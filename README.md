@@ -13,6 +13,7 @@ rainbowBot is created by owner supercolorful (superwatery), and is written in Ja
 - nuke messages 
 - userinfo
 - serverinfo
+- suggestion command
 - the say command! 
 - invite link
 
