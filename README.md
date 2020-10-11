@@ -3,7 +3,8 @@ rainbowBot is created by owner supercolorful (superwatery), and is written in Ja
 
 - post memes
 - ping! pong?
-- creating a ticket/closing a ticket
+- creating a ticket
+- closing a ticket
 - roll a die
 - kick member
 - mute member
