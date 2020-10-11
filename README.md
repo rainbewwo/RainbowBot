@@ -15,6 +15,7 @@ rainbowBot is created by owner supercolorful (superwatery), and is written in Ja
 - serverinfo
 - suggestion command
 - the say command! 
+- the hug command!
 - invite link
 
 My prefix is !
